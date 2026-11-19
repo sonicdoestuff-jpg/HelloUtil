@@ -1,14 +1,14 @@
 # HelloUtil
 
 ```text
- _     _____ _     _     ____  _    _____ _  _    
+ _     _____ _     _     ____  _.    
 / \ /|/  __// \   / \   /  _ \/ \ /Y__ __Y \/ \
 | |_|||  \  | |   | |   | / \|| | || / \ | || |
 | | |||  /_ | |_/\| |_/\| \_/|| \_/| | | | || |_/\
 \_/ \|\____\\____/\____/\____/\____/ \_/ \_/\____/
 ```
 
-**HelloUtil** is a Python utility project.
+**HelloUtil** is a Python utility project
 
 ## Features
 
@@ -19,10 +19,8 @@
 
 ## Installation
 
-Make sure Python and Git are installed
-
 ```bash
-git clone https://github.com/YOUR_USERNAME/HelloUtil.git
+git clone https://github.com/sonicdoestuff-jpg/HelloUtil
 cd HelloUtil
 ```
 
@@ -39,7 +37,7 @@ python main.py
 - `3` About
 - `0` Exit
 
-## Versions
+## Version
 
 **v1.0** - Initial development release
 
